@@ -1,0 +1,51 @@
+{
+  "orders": [
+    {
+      "id": "ORD-2024-001",
+      "products": [
+        {
+          "name": "Premium Whey Protein",
+          "quantity": 1,
+          "price": 49.99
+        },
+        {
+          "name": "Pre-Workout Elite",
+          "quantity": 1,
+          "price": 39.99
+        }
+      ],
+      "customerName": "John Smith",
+      "email": "john.smith@example.com",
+      "orderDate": "2024-01-15T10:30:00Z",
+      "shippingAddress": {
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001"
+      },
+      "status": "delivered",
+      "total": 89.98
+    },
+    {
+      "id": "ORD-2024-002",
+      "products": [
+        {
+          "name": "Complete Multivitamin",
+          "quantity": 1,
+          "price": 29.99
+        }
+      ],
+      "customerName": "Sarah Johnson",
+      "email": "sarah.j@example.com",
+      "orderDate": "2024-01-20T15:45:00Z",
+      "shippingAddress": {
+        "street": "456 Oak Avenue",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90001"
+      },
+      "status": "processing",
+      "total": 29.99
+    }
+  ]
+} 

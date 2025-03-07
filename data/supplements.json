@@ -1,0 +1,484 @@
+{
+  "supplements": [
+    {
+      "id": "prot-001",
+      "name": "Premium Whey Protein",
+      "category": "Protein",
+      "brand": "FitLife",
+      "price": 49.99,
+      "servingSize": "30g",
+      "servingsPerContainer": 30,
+      "servingInstructions": "Mix 1 scoop with 8-10 oz of water or milk. Best taken post-workout or between meals.",
+      "ingredients": [
+        "Whey Protein Isolate",
+        "Whey Protein Concentrate",
+        "Natural Flavors",
+        "Stevia Leaf Extract",
+        "Xanthan Gum"
+      ],
+      "nutritionFacts": {
+        "calories": 120,
+        "protein": 24,
+        "carbohydrates": 3,
+        "fat": 1,
+        "sugar": 1,
+        "sodium": 50
+      },
+      "benefits": [
+        "Muscle recovery",
+        "Protein synthesis",
+        "Weight management",
+        "Immune support"
+      ],
+      "allergens": ["Milk"],
+      "certifications": ["NSF Certified", "GMP Certified"],
+      "rating": 4.8,
+      "reviewCount": 1250,
+      "inStock": true,
+      "imageUrl": "/images/supplements/whey-protein.jpg",
+      "pictureURL": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?q=80&w=1000"
+    },
+    {
+      "id": "vit-001",
+      "name": "Complete Multivitamin",
+      "category": "Vitamins",
+      "brand": "HealthPlus",
+      "price": 29.99,
+      "servingSize": "1 tablet",
+      "servingsPerContainer": 60,
+      "servingInstructions": "Take 1 tablet daily with food. Best taken in the morning.",
+      "ingredients": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D3",
+        "Vitamin E",
+        "Vitamin B Complex",
+        "Zinc",
+        "Magnesium",
+        "Calcium"
+      ],
+      "nutritionFacts": {
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0,
+        "sugar": 0,
+        "sodium": 0
+      },
+      "benefits": [
+        "Immune support",
+        "Energy production",
+        "Bone health",
+        "Overall wellness"
+      ],
+      "allergens": [],
+      "certifications": ["USP Verified", "Non-GMO"],
+      "rating": 4.6,
+      "reviewCount": 980,
+      "inStock": true,
+      "imageUrl": "/images/supplements/multivitamin.jpg",
+      "pictureURL": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?q=80&w=1000"
+    },
+    {
+      "id": "pre-001",
+      "name": "Pre-Workout Elite",
+      "category": "Pre-Workout",
+      "brand": "PowerFuel",
+      "price": 39.99,
+      "servingSize": "10g",
+      "servingsPerContainer": 20,
+      "servingInstructions": "Mix 1 scoop with 8-10 oz of water 20-30 minutes before workout.",
+      "ingredients": [
+        "Caffeine Anhydrous",
+        "L-Citrulline",
+        "Beta-Alanine",
+        "Creatine Monohydrate",
+        "Betaine Anhydrous",
+        "Natural Flavors",
+        "Sucralose"
+      ],
+      "nutritionFacts": {
+        "calories": 5,
+        "protein": 0,
+        "carbohydrates": 1,
+        "fat": 0,
+        "sugar": 0,
+        "sodium": 150
+      },
+      "benefits": [
+        "Energy boost",
+        "Focus enhancement",
+        "Muscle pump",
+        "Endurance support"
+      ],
+      "allergens": [],
+      "certifications": ["NSF Certified", "Informed Choice"],
+      "rating": 4.7,
+      "reviewCount": 850,
+      "inStock": true,
+      "imageUrl": "/images/supplements/pre-workout.jpg",
+      "pictureURL": "https://images.unsplash.com/photo-1594882645126-14020914d58d?q=80&w=1000"
+    },
+    {
+      "id": "fish-001",
+      "name": "Omega-3 Fish Oil",
+      "category": "Omega-3",
+      "brand": "PureHealth",
+      "price": 24.99,
+      "servingSize": "2 softgels",
+      "servingsPerContainer": 30,
+      "servingInstructions": "Take 2 softgels daily with meals.",
+      "ingredients": [
+        "Fish Oil",
+        "DHA",
+        "EPA",
+        "Vitamin E",
+        "Gelatin",
+        "Glycerin",
+        "Water"
+      ],
+      "nutritionFacts": {
+        "calories": 20,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 2,
+        "sugar": 0,
+        "sodium": 0
+      },
+      "benefits": [
+        "Heart health",
+        "Brain function",
+        "Joint support",
+        "Eye health"
+      ],
+      "allergens": ["Fish"],
+      "certifications": ["IFOS Certified", "Non-GMO"],
+      "rating": 4.5,
+      "reviewCount": 720,
+      "inStock": true,
+      "imageUrl": "/images/supplements/fish-oil.jpg",
+      "pictureURL": "https://images.unsplash.com/photo-1615397349754-cfa2066a298e?q=80&w=1000"
+    },
+    {
+      "id": "prot-002",
+      "name": "Plant-Based Protein",
+      "category": "Protein",
+      "brand": "GreenLife",
+      "price": 54.99,
+      "servingSize": "35g",
+      "servingsPerContainer": 25,
+      "servingInstructions": "Mix 1 scoop with 10-12 oz of water or plant-based milk. Ideal post-workout or as a meal replacement.",
+      "ingredients": [
+        "Pea Protein Isolate",
+        "Brown Rice Protein",
+        "Quinoa Protein",
+        "Natural Vanilla Flavor",
+        "Stevia Extract",
+        "Sunflower Lecithin"
+      ],
+      "nutritionFacts": {
+        "calories": 130,
+        "protein": 22,
+        "carbohydrates": 4,
+        "fat": 2,
+        "sugar": 0,
+        "sodium": 45
+      },
+      "benefits": [
+        "Plant-based muscle support",
+        "Easy digestion",
+        "Complete amino acid profile",
+        "Sustainable sourcing"
+      ],
+      "allergens": [],
+      "certifications": ["Vegan Certified", "Non-GMO", "Organic"],
+      "rating": 4.6,
+      "reviewCount": 850,
+      "inStock": true,
+      "imageUrl": "/images/supplements/plant-protein.jpg",
+      "pictureURL": "https://images.unsplash.com/photo-1610725664285-7c57e6eeac3f?q=80&w=1000"
+    },
+    {
+      "id": "bcaa-001",
+      "name": "BCAA Recovery Complex",
+      "category": "Amino Acids",
+      "brand": "PowerFuel",
+      "price": 34.99,
+      "servingSize": "7g",
+      "servingsPerContainer": 40,
+      "servingInstructions": "Mix 1 scoop with water and drink during or after workout.",
+      "ingredients": [
+        "L-Leucine",
+        "L-Isoleucine",
+        "L-Valine",
+        "Electrolyte Blend",
+        "Natural Flavors",
+        "Citric Acid"
+      ],
+      "nutritionFacts": {
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0,
+        "sugar": 0,
+        "sodium": 100
+      },
+      "benefits": [
+        "Muscle recovery",
+        "Reduced soreness",
+        "Hydration support",
+        "Endurance enhancement"
+      ],
+      "allergens": [],
+      "certifications": ["NSF Certified", "Informed Choice"],
+      "rating": 4.7,
+      "reviewCount": 560,
+      "inStock": true,
+      "imageUrl": "/images/supplements/bcaa.jpg",
+      "pictureURL": "https://images.unsplash.com/photo-1579722820308-d3e789c3c4f9?q=80&w=1000"
+    },
+    {
+      "id": "coll-001",
+      "name": "Collagen Beauty Complex",
+      "category": "Beauty",
+      "brand": "GlowWell",
+      "price": 44.99,
+      "servingSize": "12g",
+      "servingsPerContainer": 30,
+      "servingInstructions": "Mix 1 scoop with water, coffee, or smoothie once daily.",
+      "ingredients": [
+        "Bovine Collagen Peptides",
+        "Hyaluronic Acid",
+        "Vitamin C",
+        "Biotin",
+        "Natural Flavors"
+      ],
+      "nutritionFacts": {
+        "calories": 45,
+        "protein": 11,
+        "carbohydrates": 0,
+        "fat": 0,
+        "sugar": 0,
+        "sodium": 25
+      },
+      "benefits": [
+        "Skin elasticity",
+        "Hair strength",
+        "Nail health",
+        "Joint support"
+      ],
+      "allergens": ["Bovine"],
+      "certifications": ["GMP Certified", "Grass-Fed"],
+      "rating": 4.8,
+      "reviewCount": 920,
+      "inStock": true,
+      "imageUrl": "/images/supplements/collagen.jpg",
+      "pictureURL": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?q=80&w=1000"
+    },
+    {
+      "id": "mag-001",
+      "name": "Magnesium Sleep Complex",
+      "category": "Minerals",
+      "brand": "RestWell",
+      "price": 29.99,
+      "servingSize": "2 capsules",
+      "servingsPerContainer": 45,
+      "servingInstructions": "Take 2 capsules 30-60 minutes before bedtime.",
+      "ingredients": [
+        "Magnesium Glycinate",
+        "Magnesium L-Threonate",
+        "L-Theanine",
+        "GABA",
+        "Zinc"
+      ],
+      "nutritionFacts": {
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0,
+        "sugar": 0,
+        "sodium": 0
+      },
+      "benefits": [
+        "Better sleep quality",
+        "Muscle relaxation",
+        "Stress reduction",
+        "Cognitive support"
+      ],
+      "allergens": [],
+      "certifications": ["GMP Certified", "Non-GMO"],
+      "rating": 4.9,
+      "reviewCount": 1100,
+      "inStock": true,
+      "imageUrl": "/images/supplements/magnesium.jpg",
+      "pictureURL": "https://images.unsplash.com/photo-1550572017-edd951aa8f7e?q=80&w=1000"
+    },
+    {
+      "id": "prob-002",
+      "name": "Advanced Gut Health Probiotic",
+      "category": "Probiotics",
+      "brand": "GutHealth",
+      "price": 49.99,
+      "servingSize": "1 capsule",
+      "servingsPerContainer": 60,
+      "servingInstructions": "Take 1 capsule daily with or without food. Best taken in the morning.",
+      "ingredients": [
+        "Multi-Strain Probiotic Blend",
+        "Prebiotic Fiber",
+        "Digestive Enzymes",
+        "L-Glutamine",
+        "Zinc Carnosine"
+      ],
+      "nutritionFacts": {
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0,
+        "sugar": 0,
+        "sodium": 0
+      },
+      "benefits": [
+        "Gut health support",
+        "Immune function",
+        "Digestive comfort",
+        "Nutrient absorption"
+      ],
+      "allergens": [],
+      "certifications": ["USP Verified", "Non-GMO"],
+      "rating": 4.7,
+      "reviewCount": 780,
+      "inStock": true,
+      "imageUrl": "/images/supplements/probiotic-advanced.jpg",
+      "pictureURL": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=1000"
+    },
+    {
+      "id": "green-001",
+      "name": "Super Greens Powder",
+      "category": "Superfoods",
+      "brand": "PureHealth",
+      "price": 39.99,
+      "servingSize": "8g",
+      "servingsPerContainer": 30,
+      "servingInstructions": "Mix 1 scoop with 8-10 oz of water or juice. Best taken in the morning.",
+      "ingredients": [
+        "Organic Wheat Grass",
+        "Spirulina",
+        "Chlorella",
+        "Kale Powder",
+        "Barley Grass",
+        "Digestive Enzyme Blend",
+        "Probiotics"
+      ],
+      "nutritionFacts": {
+        "calories": 30,
+        "protein": 2,
+        "carbohydrates": 6,
+        "fat": 0,
+        "sugar": 1,
+        "sodium": 15
+      },
+      "benefits": [
+        "Nutrient density",
+        "Detoxification support",
+        "Energy boost",
+        "Digestive health"
+      ],
+      "allergens": ["Wheat"],
+      "certifications": ["USDA Organic", "Non-GMO"],
+      "rating": 4.5,
+      "reviewCount": 640,
+      "inStock": true,
+      "imageUrl": "/images/supplements/greens.jpg",
+      "pictureURL": "https://images.unsplash.com/photo-1610725664285-7c57e6eeac3f?q=80&w=1000"
+    }
+  ],
+  "categories": [
+    {
+      "id": "protein",
+      "name": "Protein",
+      "description": "High-quality protein supplements for muscle recovery and growth"
+    },
+    {
+      "id": "vitamins",
+      "name": "Vitamins",
+      "description": "Essential vitamins and minerals for overall health"
+    },
+    {
+      "id": "pre-workout",
+      "name": "Pre-Workout",
+      "description": "Energy and performance enhancing supplements"
+    },
+    {
+      "id": "omega-3",
+      "name": "Omega-3",
+      "description": "Essential fatty acids for heart and brain health"
+    },
+    {
+      "id": "probiotics",
+      "name": "Probiotics",
+      "description": "Beneficial bacteria for digestive health"
+    },
+    {
+      "id": "amino-acids",
+      "name": "Amino Acids",
+      "description": "Essential building blocks for muscle recovery and performance"
+    },
+    {
+      "id": "beauty",
+      "name": "Beauty",
+      "description": "Supplements for skin, hair, and nail health"
+    },
+    {
+      "id": "minerals",
+      "name": "Minerals",
+      "description": "Essential minerals for various bodily functions"
+    },
+    {
+      "id": "superfoods",
+      "name": "Superfoods",
+      "description": "Nutrient-dense natural supplements"
+    }
+  ],
+  "brands": [
+    {
+      "id": "fitlife",
+      "name": "FitLife",
+      "description": "Premium sports nutrition supplements"
+    },
+    {
+      "id": "healthplus",
+      "name": "HealthPlus",
+      "description": "Quality vitamins and supplements"
+    },
+    {
+      "id": "powerfuel",
+      "name": "PowerFuel",
+      "description": "Performance enhancing supplements"
+    },
+    {
+      "id": "purehealth",
+      "name": "PureHealth",
+      "description": "Natural health and wellness products"
+    },
+    {
+      "id": "guthealth",
+      "name": "GutHealth",
+      "description": "Digestive health specialists"
+    },
+    {
+      "id": "greenlife",
+      "name": "GreenLife",
+      "description": "Plant-based nutrition experts"
+    },
+    {
+      "id": "glowwell",
+      "name": "GlowWell",
+      "description": "Beauty and wellness supplements"
+    },
+    {
+      "id": "restwell",
+      "name": "RestWell",
+      "description": "Sleep and relaxation specialists"
+    }
+  ]
+} 
