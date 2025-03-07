@@ -1,4 +1,4 @@
-import { Product } from "./product-grid"
+import { Product } from "@/lib/data"
 import { Star } from "lucide-react"
 
 interface ProductDetailListProps {
@@ -40,10 +40,7 @@ export function ProductDetailList({ product }: ProductDetailListProps) {
 
         <div>
           <h2 className="font-semibold">Description</h2>
-          <p className="text-muted-foreground">
-            Premium quality supplement designed to support your fitness goals. Made with carefully
-            selected ingredients to ensure maximum effectiveness and safety.
-          </p>
+          <p className="text-muted-foreground">{product.description}</p>
         </div>
 
         <div>
