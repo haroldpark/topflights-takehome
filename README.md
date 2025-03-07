@@ -25,6 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - add more nice ux functionalities like toasts, breadcrumbs, etc
 - testing
 - documentation of the code and the workflow of app
+- Adding different images for products
 
 ### I wasn't clear on:
 - How to access the storefront pages vs provider-portal pages. In reality, I would imagine after providers login, they would be able to access their portal pages through RBAC.
@@ -32,3 +33,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### Bonus functionalities implemented
 - ability to add pictures for products
 - data persistence in cart and orders
+- deployment
